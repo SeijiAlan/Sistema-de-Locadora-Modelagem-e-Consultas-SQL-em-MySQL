@@ -69,9 +69,9 @@ insert into clientes (nome,CPF,telefone,cidade) values
 
 ```sql
 insert into veiculos (modelo,marca,ano,cor,valor_diaria) values
-('onix','chevrolet','2018','preto',130.00),
-('onix','chevrolet','2019','branco',150.00),
-('onix','chevrolet','2019','prata',150.00),
+('onix','chevrolet','2018','preto',130),
+('onix','chevrolet','2019','branco',150),
+('onix','chevrolet','2019','prata',150),
 ('ka','ford','2018','prata',120),
 ('ka','ford','2019','branco',120),
 ('fit','honda','2020','prata',170),
